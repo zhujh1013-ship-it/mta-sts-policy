@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
-mx: smtp.google.com
+mx: fwd1.porkbun.com
+mx: fwd2.porkbun.com
 max_age: 604800
